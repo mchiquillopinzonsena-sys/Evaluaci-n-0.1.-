@@ -1,3 +1,8 @@
+print ("════════════════════════════════════════")
+print ("   BIENVENIDO AL SISTEMA DE ASISTENCIA  ")
+print("══════════════════════════════════════════\n")
+
+
 def sistema_asistencia_cronologico():
     print("══════════════════════════════════════════")
     print("   CENTRO DE CONTROL ACADÉMICO            ")
